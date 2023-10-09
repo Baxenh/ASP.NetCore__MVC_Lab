@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\GitHub\\project\\Baitap2_Ls01_Quanly_hanghoa\\Lession09_Login\\Lesson09_Login.csproj": {}
+    "D:\\Learning\\GitHub\\ASP.NetCore__MVC_Lab\\Lession09_Login\\Lesson09_Login.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\GitHub\\project\\Baitap2_Ls01_Quanly_hanghoa\\Lession09_Login\\Lesson09_Login.csproj": {
+    "D:\\Learning\\GitHub\\ASP.NetCore__MVC_Lab\\Lession09_Login\\Lesson09_Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\GitHub\\project\\Baitap2_Ls01_Quanly_hanghoa\\Lession09_Login\\Lesson09_Login.csproj",
+        "projectUniqueName": "D:\\Learning\\GitHub\\ASP.NetCore__MVC_Lab\\Lession09_Login\\Lesson09_Login.csproj",
         "projectName": "Lesson09_Login",
-        "projectPath": "D:\\Learning\\GitHub\\project\\Baitap2_Ls01_Quanly_hanghoa\\Lession09_Login\\Lesson09_Login.csproj",
+        "projectPath": "D:\\Learning\\GitHub\\ASP.NetCore__MVC_Lab\\Lession09_Login\\Lesson09_Login.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\GitHub\\project\\Baitap2_Ls01_Quanly_hanghoa\\Lession09_Login\\obj\\",
+        "outputPath": "D:\\Learning\\GitHub\\ASP.NetCore__MVC_Lab\\Lession09_Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

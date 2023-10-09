@@ -7,7 +7,7 @@ using XSystem.Security.Cryptography;
 
 namespace Lesson09_Login.Areas.Admins.Controllers
 {
-    //[Area("Admins")]
+    [Area("Admins")]
     public class LoginController : Controller
     {
         private readonly DevXuongMocContext _context;
